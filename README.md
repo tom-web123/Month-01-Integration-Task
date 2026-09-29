@@ -15,7 +15,7 @@
 
 ![Tabata Ward Road Accessibility map](week-4-analysis/tabata-road-accessibility-map.png)
 
-## Start here: all four weeks
+## Start here:
 
 | Week | What it is | Link |
 |---|---|---|
