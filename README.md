@@ -2,8 +2,6 @@
 
 **Which residential buildings in Tabata Ward, Ilala Municipality, Dar es Salaam are located more than 300 metres from the nearest paved road, and what does this mean for their access to schools and health facilities?**
 
-A four-week (Month 1) GIS project using QGIS and OpenStreetMap / HOTOSM data, in EPSG:32737 (WGS 84 / UTM zone 37S).
-
 ## The answer in short
 
 **Which buildings?**
@@ -13,8 +11,8 @@ A four-week (Month 1) GIS project using QGIS and OpenStreetMap / HOTOSM data, in
 - "Paved" means the OpenStreetMap road tag says asphalt, concrete or paved. Only 7.3 km of the 84.3 km of mapped roads and paths are paved.
 
 **What does it mean for access?**
-- **Health facilities:** the distance is about the same as for the other buildings (about 490 m in a straight line), but 686 of these buildings are more than 1 km from a health facility. The data has only 8 hospital footprints, so treat this with care.
-- **Schools:** these buildings are not farther from a school than the others (median 237 m, against 281 m).
+- **Health facilities:** the distance is about the same as for the other buildings, but 686 of these buildings are more than 1 km from a health facility. The data has only 8 hospital footprints, so treat this with care.
+- **Schools:** these buildings are not further from a school than the others.
 - **The catch:** the distance is similar, but the way there is different. Almost all of these buildings sit next to unpaved roads and footpaths, so getting to a clinic or school is probably slower and harder, especially for vehicles. This was not measured.
 
 ![Tabata Ward Road Accessibility map](week-4-analysis/tabata-road-accessibility-map.png)
