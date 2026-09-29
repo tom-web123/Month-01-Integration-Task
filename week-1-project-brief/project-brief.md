@@ -29,6 +29,5 @@ Tabata Ward, Ilala Municipality, Dar es Salaam Region, Tanzania. The ward bounda
 - `README.md` - the short answer, and links to every deliverable.
 - `week-1-project-brief/project-brief.md` - this file.
 - `week-2-data-notes/data-notes.md` - what was downloaded.
-- `week-3-prepared-data/` - data preparation note, quality checks and the five input layers in one file (`data/tabata_analysis.gpkg`).
+- `week-3-prepared-data/` - data preparation note, quality checks and data (`data/tabata_analysis.gpkg`).
 - `week-4-analysis/` - the map image and `month-1-summary.md`.
-- `results/` - the list of buildings over 300 m and the distances layer.
