@@ -19,7 +19,7 @@
 |---|---|---|
 | 1 | Project brief, with a source link for every dataset | [week-1-project-brief/project-brief.md](week-1-project-brief/project-brief.md) |
 | 2 | Data notes: what was downloaded | [week-2-data-notes/data-notes.md](week-2-data-notes/data-notes.md) |
-| 3 | Data preparation and the five quality checks | [week-3-prepared-data/data-preparation-note.md](week-3-prepared-data/data-preparation-note.md) |
+| 3 | Data preparation | [week-3-prepared-data/data-preparation-note.md](week-3-prepared-data/data-preparation-note.md) |
 | 3 | Data | [week-3-prepared-data/data/tabata_analysis.gpkg](week-3-prepared-data/data) |
 | 4 | Map image | [week-4-analysis/tabata-road-accessibility-map.png](week-4-analysis/tabata-road-accessibility-map.png) |
 | 4 | Month 1 summary (the analysis and result) | [week-4-analysis/month-1-summary.md](week-4-analysis/month-1-summary.md) |
