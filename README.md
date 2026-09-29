@@ -24,7 +24,7 @@
 | 3 | Data preparation and the five quality checks | [week-3-prepared-data/data-preparation-note.md](week-3-prepared-data/data-preparation-note.md) |
 | 4 | Map image | [week-4-analysis/tabata-road-accessibility-map.png](week-4-analysis/tabata-road-accessibility-map.png) |
 | 4 | Month 1 summary (the analysis and result) | [week-4-analysis/month-1-summary.md](week-4-analysis/month-1-summary.md) |
-| 4 | All residential buildings with distances (open in QGIS) | [results/residential-buildings-distances.gpkg](results/residential-buildings-distances.gpkg) |
+
 
 ## Folder layout
 
