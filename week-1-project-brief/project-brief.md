@@ -4,14 +4,14 @@
 Which residential buildings in Tabata Ward, Ilala Municipality, Dar es Salaam are located more than 300 metres from the nearest paved road, and what does this mean for their access to schools and health facilities?
 
 ## Study Area
-Tabata Ward, Ilala Municipality, Dar es Salaam Region, Tanzania (4.39 km²). The ward boundary was pulled from OpenStreetMap and saved as `tabata_boundary.gpkg` (one MultiPolygon, EPSG:32737). Its `Subward` value is "Tabata", so it still needs checking that this outline covers the whole ward and not one subward.
+Tabata Ward, Ilala Municipality, Dar es Salaam Region, Tanzania. The ward boundary was pulled from OpenStreetMap and saved as `tabata_boundary.gpkg` (one MultiPolygon, EPSG:32737).
 
 ## Datasets
 
 | Dataset | Purpose | Source |
 |---|---|---|
 | Tabata ward boundary (`tabata_boundary.gpkg`) | Define and clip the study area | https://www.openstreetmap.org/ |
-| Roads (`roads.gpkg`, `highway=*`) | Find paved roads from the `surface` tag (asphalt, concrete, paved) | https://www.openstreetmap.org/ (via QuickOSM); also https://export.hotosm.org/v3/ |
+| Roads (`roads.gpkg`, `highway=*`) | Find paved roads from the `surface` tag (asphalt, concrete, paved) | https://export.hotosm.org/v3/ |
 | Buildings (`buildings.gpkg`) | Select residential buildings (`building=residential`) and find hospitals (`building=hospital`) | https://export.hotosm.org/v3/ |
 | Amenities (`amenity.gpkg`) | Locate schools (16 points) | https://www.openstreetmap.org/ (via QuickOSM) |
 | Buffered roads (`buffered_roads.gpkg`) | Draw the roads on the Week 4 map | Made from `roads.gpkg` in QGIS |
