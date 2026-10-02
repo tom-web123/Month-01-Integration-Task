@@ -43,3 +43,22 @@ tabata-road-accessibility/
 ```
 
 
+
+
+
+
+## Month 2: Development environment and early Python
+-Week 5: set up Python, VS Code and the terminal. hello.py
+
+
+
+
+
+
+
+
+
+
+
+
+
