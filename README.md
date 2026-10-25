@@ -57,6 +57,9 @@ tabata-road-accessibility/
 -Week 7: analyse.py reads wards.csv, converts each area and classifies each ward
 
 
+-Week 8: inspect_data.py and my tabata_wards.csv
+
+
 
 
 
