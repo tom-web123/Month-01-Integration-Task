@@ -48,19 +48,16 @@ tabata-road-accessibility/
 
 
 ## Month 2: Development environment and early Python
--Week 5: set up Python, VS Code and the terminal. hello.py
+| Week | What I did | Link |
+|---|---|---|
+| 5 | Set up Python, VS Code and the terminal. `hello.py` prints a message. | [hello.py](geoclean/week_05/hello.py) · [screenshot](geoclean/week_05/screenshots/week5.png) |
+| 6 | Set up the project with uv and added pandas. `check.py` prints the pandas version. | [pyproject.toml](pyproject.toml) · [uv.lock](uv.lock) · [check.py](check.py) · [screenshot](geoclean/week_05/screenshots/week6.png) |
+| 7 | `analyse.py` reads `wards.csv`, converts each area and labels each ward large or small. | [wards.csv](wards.csv) · [analyse.py](analyse.py) · [screenshot](geoclean/week_05/screenshots/week7.png) |
+| 8 | `inspect_data.py` reads my tabata_wards.csv data | [tabata_wards.csv](Tabata_wards.csv) · [inspect_data.py](inspect_data.py) · [screenshot](geoclean/week_05/screenshots/week_08.png) |
+| 9 | summary.py and Capstone: `capstone.py` summarises `area_m2` and `building_levels` of my Month 1 buildings. | [summary.py](summary.py) · [capstone.py](capstone.py)  [screenshot](geoclean/week_05/screenshots/screenshots/week_09.png) |
 
+`tabata_buildings.csv` comes from the `buildings` layer in `week-3-prepared-data/data/tabata_analysis.gpkg`, filtered to `building = residential`. `area_m2` is the footprint area in EPSG:32737 (metres).
 
--Week 6: set up the project with uv and added pandas. check.py prints the pandas version
-
-
--Week 7: analyse.py reads wards.csv, converts each area and classifies each ward
-
-
--Week 8: inspect_data.py and my tabata_wards.csv
-
-
--Week 9: consolidation and refactoring
 ## Month 2 reflection
 1. The idea that finally clicked this month was breaking one long script into small functions: when I split my repeated code into read_rows, clean_values and summarise, my copy-paste bug (appending to the wrong list) disappeared because each job lived in only one place
 2. Easy ways of debugging my errors
