@@ -54,7 +54,7 @@ tabata-road-accessibility/
 | 6 | Set up the project with uv and added pandas. `check.py` prints the pandas version. | [pyproject.toml](pyproject.toml) · [uv.lock](uv.lock) · [check.py](check.py) · [screenshot](geoclean/week_05/screenshots/week6.png) |
 | 7 | `analyse.py` reads `wards.csv`, converts each area and labels each ward large or small. | [wards.csv](wards.csv) · [analyse.py](analyse.py) · [screenshot](geoclean/week_05/screenshots/week7.png) |
 | 8 | `inspect_data.py` reads my tabata_wards.csv data | [tabata_wards.csv](Tabata_wards.csv) · [inspect_data.py](inspect_data.py) · [screenshot](geoclean/week_05/screenshots/week_08.png) |
-| 9 | summary.py and Capstone: `capstone.py` summarises `area_m2` and `building_levels` of my Month 1 buildings. | [summary.py](summary.py) · [capstone.py](capstone.py)  [screenshot](geoclean/week_05/screenshots/screenshots/week_09.png) |
+| 9 | summary.py and Capstone: `capstone.py` summarises `area_m2` and `building_levels` of my Month 1 buildings. | [summary.py](summary.py) · [capstone.py](capstone.py) . [tabata_buildings.csv](tabata_buildings.csv) . [screenshot](geoclean/week_05/screenshots/screenshots/week_09.png) |
 
 `tabata_buildings.csv` comes from the `buildings` layer in `week-3-prepared-data/data/tabata_analysis.gpkg`, filtered to `building = residential`. `area_m2` is the footprint area in EPSG:32737 (metres).
 
