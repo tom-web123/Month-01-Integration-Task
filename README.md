@@ -60,6 +60,12 @@ tabata-road-accessibility/
 -Week 8: inspect_data.py and my tabata_wards.csv
 
 
+-Week 9: consolidation and refactoring
+## Month 2 reflection
+1. The idea that finally clicked this month was breaking one long script into small functions: when I split my repeated code into read_rows, clean_values and summarise, my copy-paste bug (appending to the wrong list) disappeared because each job lived in only one place
+2. Easy ways of debugging my errors
+3. What is still fuzzy is how Python handles scope and file lifetime, such as why rows has to be created inside the with block, and when I need .items() with parentheses versus without.
+
 
 
 
