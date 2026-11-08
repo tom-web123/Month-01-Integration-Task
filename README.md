@@ -67,6 +67,9 @@ tabata-road-accessibility/
 
 
 
+## Month 2: Geospatial Python and automation
+- Week 10: GeoPandas. Loaded, checked, joined and mapped my [Tabata_ward_map.png](month-03/week-10/challenge-files/Tabata_ward_map.png) in code.
+
 
 
 
