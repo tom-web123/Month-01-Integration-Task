@@ -75,7 +75,7 @@ tabata-road-accessibility/
 - Week 11: CRS and spatial operations. Reprojected to EPSG:[32737] and measured [Tabata area in km2].
 
 
--Week 12: Week 12: Rasters with rasterio, where I inspected my Tabata DEM
+- Week 12:  Rasters with rasterio, where I inspected my Tabata DEM
 
 
 
