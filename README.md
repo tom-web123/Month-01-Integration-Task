@@ -78,6 +78,7 @@ tabata-road-accessibility/
 - Week 12:  Rasters with rasterio, where I inspected my Tabata DEM
 
 
+- Week 13: Batch processing. my_batch.py processes the Tabata subward CSV files in a folder, turns each one into a GeoPackage of points, and logs every run.
 
 
 
